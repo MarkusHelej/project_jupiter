@@ -1,0 +1,119 @@
+[2026-04-15T06:31:52.796642] SUCCESS: Function get_stats completed.
+[2026-04-15T06:31:53.596449] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:32:02.090172] [manual_1334647] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:02.096058] [manual_1334647] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:02.098948] [manual_1334647] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:32:02.193982] [manual_1334647] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:32:02.290941] [manual_1334647] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:02.298748] [manual_1334647] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:02.384745] [manual_1334647] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:32:02.588509] [manual_1334647] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:02.594456] [manual_1334647] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:02.595580] [manual_1334647] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:32:02.693109] [manual_1334647] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:32:02.800848] [manual_1334647] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:32:03.700058] SUCCESS: Function get_stats completed.
+[2026-04-15T06:32:04.204165] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:32:04.167687] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:32:08.086456] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:08.090841] [run_1776234716_2wy0] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:08.091697] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:32:08.115053] [run_1776234716_2wy0] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:32:08.218202] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:08.286163] [run_1776234716_2wy0] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:08.287026] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:32:08.299379] [run_1776234716_2wy0] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:32:08.406998] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:08.411334] [run_1776234716_2wy0] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:08.412183] [run_1776234716_2wy0] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:32:08.608855] [run_1776234716_2wy0] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:32:08.910020] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:32:09.434107] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:32:24.084711] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:24.089019] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:24.089830] [manual_1334671] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:32:24.093687] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:24.097508] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:24.098421] [manual_1334671] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:32:24.101226] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:24.105244] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:24.106021] [manual_1334671] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:32:24.190065] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:32:24.190459] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:32:24.289713] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:32:25.116410] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:32:25.215567] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:32:32.922808] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:32.926101] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:32.926988] [manual_1334671] [BACKEND] [BACKEND_START] get_scenarios with filters={}, limit=100
+[2026-04-15T06:32:32.945038] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_scenarios returned 100 records
+[2026-04-15T06:32:33.251599] SUCCESS: Function get_scenarios completed. args={"filters": {}, "limit": 100}
+[2026-04-15T06:32:43.802120] [manual_1334692] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:43.805170] [manual_1334692] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:43.805779] [manual_1334692] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:32:43.818556] [manual_1334692] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:43.886410] [manual_1334692] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:43.887114] [manual_1334692] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:32:43.889482] [manual_1334692] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:32:43.901896] [manual_1334692] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:32:43.915034] [manual_1334692] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:32:43.985971] [manual_1334692] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:32:43.987116] [manual_1334692] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:32:44.114248] [manual_1334692] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:32:44.702244] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:32:44.702638] SUCCESS: Function get_stats completed.
+[2026-04-15T06:32:44.987721] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:33:02.097742] [tool_1776234771_233z] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:02.101665] [tool_1776234771_233z] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:02.102424] [tool_1776234771_233z] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:33:02.186129] [tool_1776234771_233z] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:02.189430] [tool_1776234771_233z] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:02.189999] [tool_1776234771_233z] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:33:02.207687] [tool_1776234771_233z] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:33:02.300310] [tool_1776234771_233z] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:33:02.602336] [tool_1776234771_233z] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:02.606026] [tool_1776234771_233z] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:02.685691] [tool_1776234771_233z] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:33:02.697224] [tool_1776234771_233z] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:33:03.102694] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:33:03.265321] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:33:03.509156] SUCCESS: Function get_stats completed.
+[2026-04-15T06:33:58.010030] [manual_1334766] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:58.013499] [manual_1334766] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:58.014475] [manual_1334766] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:33:58.095134] [manual_1334766] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:58.098920] [manual_1334766] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:58.099587] [manual_1334766] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:33:58.188064] [manual_1334766] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:33:58.195507] [manual_1334766] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:33:58.392321] [manual_1334766] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:33:58.397037] [manual_1334766] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:33:58.397852] [manual_1334766] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:33:58.414488] [manual_1334766] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:33:58.835592] SUCCESS: Function get_machine_comparison completed.
+[2026-04-15T06:33:58.913937] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:33:58.968124] SUCCESS: Function get_stats completed.
+[2026-04-15T06:34:10.552953] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:34:10.585023] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:34:10.585953] [manual_1334671] [BACKEND] [BACKEND_START] get_scenarios with filters={'machine': '14GeVc'}, limit=100
+[2026-04-15T06:34:10.611098] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_scenarios returned 100 records
+[2026-04-15T06:34:11.021013] SUCCESS: Function get_scenarios completed. args={"filters": {"machine": "14GeVc"}, "limit": 100}
+[2026-04-15T06:34:15.818549] [manual_1334671] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:34:15.821688] [manual_1334671] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:34:15.822345] [manual_1334671] [BACKEND] [BACKEND_START] get_nuclide_breakdown for scenario_id=1
+[2026-04-15T06:34:15.862789] [manual_1334671] [BACKEND] [BACKEND_SUCCESS] get_nuclide_breakdown returned 10 records
+[2026-04-15T06:34:16.127932] SUCCESS: Function get_nuclide_breakdown completed. args={"scenario_id": 1}
+[2026-04-15T06:35:08.087041] [run_1776234899_cpik] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:35:08.094854] [run_1776234899_cpik] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:35:08.095697] [run_1776234899_cpik] [BACKEND] [BACKEND_START] get_activation_distribution for metric=activation_index
+[2026-04-15T06:35:08.100341] [run_1776234899_cpik] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:35:08.103705] [run_1776234899_cpik] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:35:08.104288] [run_1776234899_cpik] [BACKEND] [BACKEND_START] get_stats
+[2026-04-15T06:35:08.117139] [run_1776234899_cpik] [BACKEND] [BACKEND_SUCCESS] get_stats: {'machine_count': 6, 'scenario_count': 16000, 'avg_activation_index': 13.525, 'max_dr_10cm': 8241.97916960631}
+[2026-04-15T06:35:08.210947] [run_1776234899_cpik] [BACKEND] [BACKEND_SUCCESS] get_activation_distribution returned 16000 records
+[2026-04-15T06:35:08.404105] [run_1776234899_cpik] [BACKEND] [BACKEND_START] Initializing Database
+[2026-04-15T06:35:08.407771] [run_1776234899_cpik] [BACKEND] [BACKEND_STEP] Database already contains 16000 scenarios. Skipping ingestion.
+[2026-04-15T06:35:08.408497] [run_1776234899_cpik] [BACKEND] [BACKEND_START] get_machine_comparison
+[2026-04-15T06:35:08.504717] [run_1776234899_cpik] [BACKEND] [BACKEND_SUCCESS] get_machine_comparison returned 6 records
+[2026-04-15T06:35:08.968014] SUCCESS: Function get_activation_distribution completed. args={"metric": "activation_index"}
+[2026-04-15T06:35:09.045417] SUCCESS: Function get_machine_comparison completed.
